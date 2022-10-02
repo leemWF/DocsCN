@@ -1,3 +1,3 @@
 # DocsCN
 
-Hello 世界
+Hello 世界 :)
